@@ -3,7 +3,6 @@ public class Helloword {
 		System.out.println("Hello, World!");
 		System.out.println("Hello, Umang!");
 		System.out.println("Hello, Nitin!");
-		System.out.println("Hello, Nitin!");
 
 	}
 }
